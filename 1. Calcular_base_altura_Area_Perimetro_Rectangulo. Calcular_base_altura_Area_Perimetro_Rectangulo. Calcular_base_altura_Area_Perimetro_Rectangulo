@@ -1,0 +1,16 @@
+Algoritmo Calcular_base_altura_Area_Perimetro_Rectangulo
+	Definir altura_base_Area_Perimetro Como Real
+	Escribir "introduce la base del rectangulo"
+	Leer base
+	Escribir "introduce la altura del rectangulo"
+	Leer altura
+	
+	//Proceso calculo
+	Area= 2*(base + altura)
+	
+	Perimetro=(base * altura)
+	
+	Escribir "el area del rectangulo es:" Area
+	Escribir "perimetro del ractangulo es:" Perimetro
+	
+FinAlgoritmo
